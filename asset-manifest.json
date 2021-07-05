@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smash-it/static/css/main.20536869.chunk.css",
+    "main.js": "/smash-it/static/js/main.55453ff9.chunk.js",
+    "main.js.map": "/smash-it/static/js/main.55453ff9.chunk.js.map",
+    "runtime-main.js": "/smash-it/static/js/runtime-main.e764d5e1.js",
+    "runtime-main.js.map": "/smash-it/static/js/runtime-main.e764d5e1.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/smash-it/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.a77f5a73.chunk.js": "/smash-it/static/js/2.a77f5a73.chunk.js",
+    "static/js/2.a77f5a73.chunk.js.map": "/smash-it/static/js/2.a77f5a73.chunk.js.map",
+    "index.html": "/smash-it/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/smash-it/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.20536869.chunk.css.map": "/smash-it/static/css/main.20536869.chunk.css.map",
+    "static/js/2.a77f5a73.chunk.js.LICENSE.txt": "/smash-it/static/js/2.a77f5a73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e764d5e1.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.a77f5a73.chunk.js",
+    "static/css/main.20536869.chunk.css",
+    "static/js/main.55453ff9.chunk.js"
+  ]
+}
